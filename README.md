@@ -1,4 +1,4 @@
-# 재능 공유를 통한 육아 플랫폼, PaPaGo
+# 재능 공유를 통한 육아 플랫폼,  PaPaGo
 
 <p align="center"><img src="https://user-images.githubusercontent.com/63043043/209429066-964376eb-1c27-4dc1-b051-d298c28e77b4.png" width="40%" height="25%"/></p>
 
