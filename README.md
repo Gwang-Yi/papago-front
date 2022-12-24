@@ -9,22 +9,22 @@
 <br>
 
 ## [ Main Page ]
-![PaPaGo_front](https://user-images.githubusercontent.com/63043043/190324032-f803dc5d-e767-42c3-820c-d40bbca37a74.png)
 <p align="center"><img src="https://user-images.githubusercontent.com/63043043/190324032-f803dc5d-e767-42c3-820c-d40bbca37a74.png" width="95%" height="90%"/></p>
 
 --------------------------------------------------------------------------------------------
 
 ## [ 신청 Page ]
 ![PaPaGo_2](https://user-images.githubusercontent.com/63043043/190325320-d598c6db-9e81-43cc-bf62-96958277c4f6.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/63043043/190325320-d598c6db-9e81-43cc-bf62-96958277c4f6.png" width="95%" height="90%"/></p>
 
 --------------------------------------------------------------------------------------------
 
 ## [ 쿠폰 Page ]
 ![PaPaGo_3](https://user-images.githubusercontent.com/63043043/190325827-5d42a421-9566-409c-847c-a14db3fcd3c7.png)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/63043043/190325827-5d42a421-9566-409c-847c-a14db3fcd3c7.png" width="95%" height="90%"/></p>
 --------------------------------------------------------------------------------------------
 
 ## [ Login Page ]
 <img width="1427" alt="PaPago_Login" src="https://user-images.githubusercontent.com/63043043/190326495-b7c070d1-5454-48e0-bdd3-bfb1af5728d2.png">
-
+<p align="center"><img src="https://user-images.githubusercontent.com/63043043/190326495-b7c070d1-5454-48e0-bdd3-bfb1af5728d2.png" width="95%" height="90%"/></p>
 
