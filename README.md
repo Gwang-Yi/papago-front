@@ -1,7 +1,7 @@
 # 재능 공유를 통한 육아 플랫폼, PaPaGo
 
 ![PAPA,Go_Logo](https://user-images.githubusercontent.com/63043043/209428726-84ee982d-6723-41a7-af18-c3074a7a2138.png){: width="10%" height="10%"}<br>
-<img src="[이미지주소.png](https://user-images.githubusercontent.com/63043043/209428726-84ee982d-6723-41a7-af18-c3074a7a2138.png)" width="20%" height="200">
+<img src="[PAPA,Go_Logo](https://user-images.githubusercontent.com/63043043/209428726-84ee982d-6723-41a7-af18-c3074a7a2138.png)" width="20%" height="200">
 ## ● 프로젝트 소개
  > '당근 마켓'처럼 **근처 이웃 아버지들의 재능 공유**를 통해 다양한 체험의 기회를 제공하고 **육아 참여를 유도**하는 플랫폼입니다.<br>또한 **쿠폰 제도**를 도입한 결제 시스템으로 기업과 사용자에게 수수료 거래를 줄여 **더 많은 수익 창출**을 가능하게 하고 **지속적인 클래스 참여를 유도**하도록 구현했습니다.
 
