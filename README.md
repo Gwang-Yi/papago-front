@@ -10,7 +10,7 @@
 
 ## [ Main Page ]
 ![PaPaGo_front](https://user-images.githubusercontent.com/63043043/190324032-f803dc5d-e767-42c3-820c-d40bbca37a74.png)
-<p align="center"><img src="https://user-images.githubusercontent.com/63043043/190324032-f803dc5d-e767-42c3-820c-d40bbca37a74.png" width="70%" height="70%"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/63043043/190324032-f803dc5d-e767-42c3-820c-d40bbca37a74.png" width="95%" height="90%"/></p>
 
 --------------------------------------------------------------------------------------------
 
